@@ -57,6 +57,8 @@ public class Operacoes {
 		this.num2 = num2;
 	}
 	
+	
+	// Método para validar qual escolha matematica foi requisitada e realizar operacao
 	void matematica () {
 		this.operacao = this.escolha;
 		
