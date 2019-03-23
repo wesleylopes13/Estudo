@@ -1,5 +1,6 @@
 package br.com.calculadora;
 import java.text.DecimalFormat;
+import java.util.Scanner;
 
 public class Operacoes {
 	
@@ -58,7 +59,7 @@ public class Operacoes {
 	}
 	
 	
-	// Método para validar qual escolha matematica foi requisitada e realizar operacao
+	// Método para validar qual escolha matematica foi requisitada
 	void matematica () {
 		this.operacao = this.escolha;
 		
@@ -68,13 +69,13 @@ public class Operacoes {
 			System.out.println("A soma de: " + getNum1() + " + " + getNum2() + " = " + df.format(getNum1()+getNum2()));
 			break;
 		case 2:
-			System.out.println("A soma de: " + num1 + " - " + num2 + " = " + df.format(getNum1()-getNum2()));
+			System.out.println("A subtração de: " + num1 + " - " + num2 + " = " + df.format(getNum1()-getNum2()));
 			break;
 		case 3:
-			System.out.println("A soma de: " + getNum1() + " / " + getNum2() + " = " + df.format((getNum1()/getNum2())));
+			System.out.println("A divisão de: " + getNum1() + " / " + getNum2() + " = " + df.format((getNum1()/getNum2())));
 			break;
 		case 4:
-			System.out.println("A soma de: " + getNum1() + " x " + getNum2() + " = " + df.format(getNum1()*getNum2()));
+			System.out.println("A multiplicação de: " + getNum1() + " x " + getNum2() + " = " + df.format(getNum1()*getNum2()));
 			break;
 		default: 
 			System.out.print("\nEssa operação ainda não foi introduzida no programa\n");
