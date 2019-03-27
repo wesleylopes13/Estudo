@@ -1,0 +1,7 @@
+C:\Users\wesle\source\repos\Estudo Curso C#\Lógica de programação\Exercicio_3\Exercicio_3\bin\Debug\Exercicio_3.exe.config
+C:\Users\wesle\source\repos\Estudo Curso C#\Lógica de programação\Exercicio_3\Exercicio_3\bin\Debug\Exercicio_3.exe
+C:\Users\wesle\source\repos\Estudo Curso C#\Lógica de programação\Exercicio_3\Exercicio_3\bin\Debug\Exercicio_3.pdb
+C:\Users\wesle\source\repos\Estudo Curso C#\Lógica de programação\Exercicio_3\Exercicio_3\obj\Debug\Exercicio_3.csprojAssemblyReference.cache
+C:\Users\wesle\source\repos\Estudo Curso C#\Lógica de programação\Exercicio_3\Exercicio_3\obj\Debug\Exercicio_3.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\Estudo Curso C#\Lógica de programação\Exercicio_3\Exercicio_3\obj\Debug\Exercicio_3.exe
+C:\Users\wesle\source\repos\Estudo Curso C#\Lógica de programação\Exercicio_3\Exercicio_3\obj\Debug\Exercicio_3.pdb
